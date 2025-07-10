@@ -66,14 +66,24 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
 
 ---
 
+
+
+
 ### 📫 Let's Connect!
 
 I am seeking long-term partnerships to provide stability, maintenance, and strategic evolution for critical digital assets.
 
 <p>
+  <!-- Link do LinkedIn -->
   <a href="https://www.linkedin.com/in/sergiominozzi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  
+  <!-- ✨ NOVO LINK PARA O SITE ✨ (Lembre-se de trocar o URL) -->
+  <a href="https://sergiominozzi.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="My Website">
+  </a>
+  
 
 </p>
 
