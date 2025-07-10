@@ -74,20 +74,9 @@ I am seeking long-term partnerships to provide stability, maintenance, and strat
   <a href="https://www.linkedin.com/in/sergiominozzi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <!-- IMPORTANT: Replace with your email address -->
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+
 </p>
 
 ---
 
-### 📊 My GitHub Stats
 
-<p align="center">
-  <!-- IMPORTANT: Replace 'your-github-username' with your actual username -->
-  <a href="https://github.com/your-github-username">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
