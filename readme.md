@@ -1,5 +1,5 @@
 # William Sergio Minozzi 👋
-### Senior Technical Consultant & WordPress Specialist | Bridging Technology and Business Strategy
+### Freelance Linux & WordPress Expert | System Administration, Security & Technical Support | Open to Projects 
 
 <p align="left">
   📍 Living in the European Union | 🇮🇹 Citizenship: Italian (EU)
