@@ -55,6 +55,13 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
         <li>Firewall Configuration (iptables, UFW)</li>
         <li>Intrusion Prevention & Bot Mitigation</li>
       </ul>
+      <strong>Technical Support & Troubleshooting:</strong>
+<ul>
+    <li>Custom Technical Support</li>
+    <li>Ticket System Management</li>
+    <li>Troubleshooting</li>
+    <li>Linux Server Checkup</li>
+</ul>
     </td>
   </tr>
 </table>
