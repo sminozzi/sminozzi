@@ -16,9 +16,9 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>🤖 Artificial Intelligence</strong>
+      <strong>🤖 Generative AI Integration</strong>
       <ul>
-        <li>API Integration (Gemini, ChatGPT)</li>
+        <li>Gemini API, chatGPT API:Architecting full-stack diagnostic chatbots using Gemini & ChatGPT, from custom back-end API development to interactive front-end solutions.</li>
       </ul>
       <strong>⚙️ Back-End</strong>
       <ul>
