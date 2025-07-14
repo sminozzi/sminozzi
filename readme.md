@@ -24,12 +24,15 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
       <ul>
         <li>PHP</li>
         <li>MySQL</li>
+        <li>JSON</li>
       </ul>
       <strong>🖥️ Front-End</strong>
       <ul>
         <li>JavaScript</li>
         <li>HTML5 & CSS3</li>
         <li>jQuery</li>
+        <li>Botstrap</li>
+        <li>Datatables</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -38,6 +41,7 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
         <li><strong>WordPress (Expert Level)</strong></li>
         <li>Custom Plugin & Theme Development</li>
         <li>Performance Optimization & Security</li>
+          <li>eCommerce</li>
       </ul>
       <strong>☁️ Servers & Infrastructure</strong>
       <ul>
