@@ -29,7 +29,7 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
       <strong>🖥️ Front-End</strong>
       <ul>
         <li>JavaScript</li>
-        <li>HTML5 & CSS3</li>
+        <li>HTML5 & CSS</li>
         <li>jQuery</li>
         <li>Botstrap</li>
         <li>Datatables</li>
