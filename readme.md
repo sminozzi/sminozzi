@@ -56,8 +56,8 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
       <ul>
         <li>Multi-Layered Security Strategy</li>
         <li>Firewall Configuration & Management (CSF, ModSecurity, Fail2Ban, iptables)</li>
-        <li>Intrusion Prevention & Bot Mitigation<li>
-        <li>Advanced Bot and DDoS protection, Anti-Spam<li>
+        <li>Intrusion Prevention & Bot Mitigation</li>
+        <li>Advanced Bot and DDoS protection, Anti-Spam</li>
       </ul>
       <strong>Technical Support & Troubleshooting:</strong>
 <ul>
