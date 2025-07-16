@@ -61,16 +61,17 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
                 <li>Advanced Bot and DDoS protection, Anti-Spam</li>
             </ul>
 
-                                  <strong>Strategy & Management:</strong>
-                        <ul>
-                            <li>Business Consulting, Project Management, Requirements Analysis</li>
-                            <li>End-to-End Technical Ownership & Problem-Solving</li>
-                            <li>Client Partnership & Strategic Planning</li>
-                            <li>Analytics Solution Development & Data Analysis</li>
-                            <li>Adwords and Google APIS</li>
-                            <li>SEO</li>
-                            <li>X and Youtube API</li>
-                        </ul>
+            <strong>Strategy & Management:</strong>
+            <strong>Strategy & Management:</strong>
+            <ul>
+                <li>Business Consulting, Project Management, Requirements Analysis</li>
+                <li>End-to-End Technical Ownership & Problem-Solving</li>
+                <li>Client Partnership & Strategic Planning</li>
+                <li>Analytics Solution Development & Data Analysis</li>
+                <li>Google Ads & Google API Integrations (e.g., Analytics, My Business APIs)</li>
+                <li>Search Engine Optimization (SEO)</li>
+                <li>Social Media API Integration (e.g., X/Twitter, YouTube)</li>
+            </ul>
         </td>
     </tr>
 </table>
