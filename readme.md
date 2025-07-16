@@ -43,7 +43,7 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
         <li>Custom Plugin & Theme Development</li>
         <li>Performance Optimization & Security</li>
          <li>eCommerce</li>
-        <liPayment Methods: Paypal, Stripe and others payment Processing, Financial Reporting, Fraud Detection</li>
+        <li></li>Payment Methods: Paypal, Stripe and others payment Processing, Financial Reporting, Fraud Detection</li>
           <li>Build CMS</li>
       </ul>
       <strong>☁️ Servers & Infrastructure</strong>
