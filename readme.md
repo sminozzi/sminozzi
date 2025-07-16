@@ -13,16 +13,14 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
 
 ### 🚀 Core Competencies & Tech Stack
 
-# Core Competencies
 
-|  | |
+| | |
 |-------------|--------------|
-| **Generative AI Integration (Gemini API, ChatGPT API):** Architecting full-stack diagnostic chatbots using Gemini & ChatGPT, from custom back-end API development to interactive front-end solutions. | **Front-End Development:** JavaScript, HTML5, CSS, jQuery, Bootstrap, DataTables, Forms (reCaptcha and CloudFlare Turnstile) |
-| **Back-End Development:** PHP, MySQL, JSON, API Creation | **CMS & Frameworks:** Build CMS, WordPress (Expert Level): Custom Plugin & Theme Development, Performance Optimization, Shopping Cart and eCommerce |
-| **Building debug tools** | **Payment Methods:** PayPal, Stripe and other payment processing, Financial Reporting, Fraud Detection |
-| **Servers & Infrastructure:** <ul><li>Full-Stack Linux Server Administration (from bare-metal setup)</li><li>LAMP/LEMP Stack Configuration, Performance Tuning & Maintenance</li><li>Server Installation and Administration (cPanel, Control Web Panel - CWP)</li><li>AWS and Contabo API, Object Storage, eBay API</li><li>Bare-Metal and VPS Linux Install and management</li><li>Email deliverability: SPF, DKIM, DMARC, Reverse DNS</li><li>Server Backup</li></ul> | **Security Architecture & Hardening:** <ul><li>Multi-layered security strategy (Server, Network & Application)</li><li>Firewall Configuration & Management (CSF, ModSecurity, Fail2Ban, iptables)</li><li>Cyber Security: Intrusion Prevention, Malware Scanning</li><li>Advanced Bot and DDoS protection, Anti-Spam</li></ul> |
-| | **Technical Support & Troubleshooting:** <ul><li>Custom Technical Support</li><li>Ticket System Build and Management</li><li>Troubleshooting</li><li>Linux Server performance and Checkup, Dashboard Creation</li></ul> |
-| | **Strategy & Management:** <ul><li>Business Consulting, Project Management, Requirements Analysis</li><li>End-to-End Technical Ownership & Problem-Solving</li><li>Client Partnership & Strategic Planning</li><li>Analytics Solution Development & Data Analysis</li><li>Adwords and Google APIs</li><li>SEO</li><li>X and YouTube API</li></ul> |
+| **Generative AI Integration (Gemini API, ChatGPT API):** Architecting full-stack diagnostic chatbots using Gemini & ChatGPT, from custom back-end API development to interactive front-end solutions. | **CMS & Frameworks:** Build CMS, WordPress (Expert Level): Custom Plugin & Theme Development, Performance Optimization, Shopping Cart and eCommerce |
+| **Back-End Development:** PHP, MySQL, JSON, API Creation | **Payment Methods:** PayPal, Stripe and other payment processing, Financial Reporting, Fraud Detection |
+| **Building debug tools** | **Security Architecture & Hardening:** <ul><li>Multi-layered security strategy (Server, Network & Application)</li><li>Firewall Configuration & Management (CSF, ModSecurity, Fail2Ban, iptables)</li><li>Cyber Security: Intrusion Prevention, Malware Scanning</li><li>Advanced Bot and DDoS protection, Anti-Spam</li></ul> |
+| **Front-End Development:** JavaScript, HTML5, CSS, jQuery, Bootstrap, DataTables, Forms (reCaptcha and CloudFlare Turnstile) | **Technical Support & Troubleshooting:** <ul><li>Custom Technical Support</li><li>Ticket System Build and Management</li><li>Troubleshooting</li><li>Linux Server performance and Checkup, Dashboard Creation</li></ul> |
+| **Servers & Infrastructure:** <ul><li>Full-Stack Linux Server Administration (from bare-metal setup)</li><li>LAMP/LEMP Stack Configuration, Performance Tuning & Maintenance</li><li>Server Installation and Administration (cPanel, Control Web Panel - CWP)</li><li>AWS and Contabo API, Object Storage, eBay API</li><li>Bare-Metal and VPS Linux Install and management</li><li>Email deliverability: SPF, DKIM, DMARC, Reverse DNS</li><li>Server Backup</li></ul> | **Strategy & Management:** <ul><li>Business Consulting, Project Management, Requirements Analysis</li><li>End-to-End Technical Ownership & Problem-Solving</li><li>Client Partnership & Strategic Planning</li><li>Analytics Solution Development & Data Analysis</li><li>Adwords and Google APIs</li><li>SEO</li><li>X and YouTube API</li></ul> |
 
 ### 🎯 Professional Highlights
 
