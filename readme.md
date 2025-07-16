@@ -31,7 +31,7 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
                 <li>JavaScript</li>
                 <li>HTML5 & CSS</li>
                 <li>jQuery</li>
-                <li>**Bootstrap**</li>
+                <li>Bootstrap</li>
                 <li>Datatables</li>
                 <li>Forms, reCaptcha, Turnstile</li>
             </ul>
