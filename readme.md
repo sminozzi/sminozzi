@@ -74,9 +74,9 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
     <li>End-to-End Technical Ownership & Problem-Solving</li>
     <li>Client Partnership & Strategic Planning</li>
     <li>Analytics Solution Development & Data Analysis</li>
-    <li>**Google Ads & Google API Integrations** (e.g., Analytics, My Business APIs)</li>
-    <li>**Search Engine Optimization (SEO)**</li>
-    <li>**Social Media API Integration (e.g., X/Twitter, YouTube)**</li>
+    <li>Google Ads & Google API Integrations (e.g., Analytics, My Business APIs)</li>
+    <li>Search Engine Optimization (SEO)</li>
+    <li>Social Media API Integration (e.g., X/Twitter, YouTube)</li>
 </ul>
 
     </td>
