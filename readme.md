@@ -13,51 +13,17 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
 
 ### 🚀 Core Competencies & Tech Stack
 
-Core Competencies
+# Core Competencies
 
-
-
-Left Column
-Right Column
-
-
-
-Generative AI Integration (Gemini API, ChatGPT API): Architecting full-stack diagnostic chatbots using Gemini & ChatGPT, from custom back-end API development to interactive front-end solutions.
-Security Architecture & Hardening: Multi-layered security strategy (Server, Network & Application)Firewall Configuration & Management (CSF, ModSecurity, Fail2Ban, iptables)Cyber Security: Intrusion Prevention, Malware ScanningAdvanced Bot and DDoS protection, Anti-Spam
-
-
-Back-End Development: PHP, MySQL, JSON, API Creation
-Technical Support & Troubleshooting: Custom Technical SupportTicket System Build and ManagementTroubleshootingLinux Server performance and Checkup, Dashboard Creation
-
-
-Building debug tools
-Strategy & Management: Business Consulting, Project Management, Requirements AnalysisEnd-to-End Technical Ownership & Problem-SolvingClient Partnership & Strategic PlanningAnalytics Solution Development & Data AnalysisAdwords and Google APIsSEOX and YouTube API
-
-
-Front-End Development: JavaScript, HTML5, CSS, jQuery, Bootstrap, DataTables, Forms (reCaptcha and CloudFlare Turnstile)
-
-
-
-CMS & Frameworks: Build CMS, WordPress (Expert Level): Custom Plugin & Theme Development, Performance Optimization, Shopping Cart and eCommerce
-
-
-
-Payment Methods: PayPal, Stripe and other payment processing, Financial Reporting, Fraud Detection
-
-
-
-Servers & Infrastructure: Full-Stack Linux Server Administration (from bare-metal setup)LAMP/LEMP Stack Configuration, Performance Tuning & MaintenanceServer Installation and Administration (cPanel, Control Web Panel - CWP)AWS and Contabo API, Object Storage, eBay APIBare-Metal and VPS Linux Install and managementEmail deliverability: SPF, DKIM, DMARC, Reverse DNSServer Backup
-
-
-
----
-
-### 🌟 Key Skills & Expertise
-
-<ul>
-    <li>**Technical Support & Troubleshooting:** Custom Technical Support, Ticket System Management, Troubleshooting, Linux Server Checkup, Linux Server Performance & Dashboard Creation.</li>
-    <li>**Strategy & Management:** Business Consulting, Project Management, Requirements Analysis, End-to-End Technical Ownership & Problem-Solving, Client Partnership & Strategic Planning, Analytics Solution Development & Data Analysis, Google Ads & Google API Integrations (e.g., Analytics, My Business APIs), Search Engine Optimization (SEO), Social Media API Integration (e.g., X/Twitter, YouTube).</li>
-</ul>
+| Left Column | Right Column |
+|-------------|--------------|
+| **Generative AI Integration (Gemini API, ChatGPT API):** Architecting full-stack diagnostic chatbots using Gemini & ChatGPT, from custom back-end API development to interactive front-end solutions. | **Security Architecture & Hardening:** <ul><li>Multi-layered security strategy (Server, Network & Application)</li><li>Firewall Configuration & Management (CSF, ModSecurity, Fail2Ban, iptables)</li><li>Cyber Security: Intrusion Prevention, Malware Scanning</li><li>Advanced Bot and DDoS protection, Anti-Spam</li></ul> |
+| **Back-End Development:** PHP, MySQL, JSON, API Creation | **Technical Support & Troubleshooting:** <ul><li>Custom Technical Support</li><li>Ticket System Build and Management</li><li>Troubleshooting</li><li>Linux Server performance and Checkup, Dashboard Creation</li></ul> |
+| **Building debug tools** | **Strategy & Management:** <ul><li>Business Consulting, Project Management, Requirements Analysis</li><li>End-to-End Technical Ownership & Problem-Solving</li><li>Client Partnership & Strategic Planning</li><li>Analytics Solution Development & Data Analysis</li><li>Adwords and Google APIs</li><li>SEO</li><li>X and YouTube API</li></ul> |
+| **Front-End Development:** JavaScript, HTML5, CSS, jQuery, Bootstrap, DataTables, Forms (reCaptcha and CloudFlare Turnstile) | |
+| **CMS & Frameworks:** Build CMS, WordPress (Expert Level): Custom Plugin & Theme Development, Performance Optimization, Shopping Cart and eCommerce | |
+| **Payment Methods:** PayPal, Stripe and other payment processing, Financial Reporting, Fraud Detection | |
+| **Servers & Infrastructure:** <ul><li>Full-Stack Linux Server Administration (from bare-metal setup)</li><li>LAMP/LEMP Stack Configuration, Performance Tuning & Maintenance</li><li>Server Installation and Administration (cPanel, Control Web Panel - CWP)</li><li>AWS and Contabo API, Object Storage, eBay API</li><li>Bare-Metal and VPS Linux Install and management</li><li>Email deliverability: SPF, DKIM, DMARC, Reverse DNS</li><li>Server Backup</li></ul> | |
 
 ---
 
