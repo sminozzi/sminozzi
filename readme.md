@@ -35,7 +35,8 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
                 <li>Datatables</li>
                 <li>Forms, reCaptcha, Turnstile</li>
             </ul>
-            <strong>🚀 CMS & Frameworks</strong> <ul>
+            <strong>🚀 CMS & Frameworks</strong>
+            <ul>
                 <li><strong>WordPress (Expert Level)</strong></li>
                 <li>Custom Plugin & Theme Development</li>
                 <li>Performance Optimization & Security</li>
@@ -50,7 +51,8 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
             <ul>
                 <li>Full-Stack Linux Server Administration</li>
                 <li>LAMP/LEMP Stack Configuration & Maintenance</li>
-                <li>Installation & Management via cPanel, CWP & AWS</li> </ul>
+                <li>Management (and install) via cPanel, CWP & AWS</li>
+            </ul>
             <strong>🛡️ Security Architecture</strong>
             <ul>
                 <li>Multi-Layered Security Strategy</li>
@@ -58,7 +60,17 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
                 <li>Intrusion Prevention & Bot Mitigation</li>
                 <li>Advanced Bot and DDoS protection, Anti-Spam</li>
             </ul>
-            </td>
+            <strong>Strategy & Management:</strong>
+            <ul>
+                <li>Business Consulting, Project Management, Requirements Analysis</li>
+                <li>End-to-End Technical Ownership & Problem-Solving</li>
+                <li>Client Partnership & Strategic Planning</li>
+                <li>Analytics Solution Development & Data Analysis</li>
+                <li>Google Ads & Google API Integrations (e.g., Analytics, My Business APIs)</li>
+                <li>Search Engine Optimization (SEO)</li>
+                <li>Social Media API Integration (e.g., X/Twitter, YouTube)</li>
+            </ul>
+        </td>
     </tr>
 </table>
 ---
