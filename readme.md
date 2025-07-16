@@ -13,8 +13,6 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
 
 ### 🚀 Core Competencies & Tech Stack
 
-### 🚀 Core Competencies & Tech Stack
-
 <table>
     <tr>
         <td valign="top" width="50%">
