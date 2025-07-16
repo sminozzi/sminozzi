@@ -54,7 +54,7 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
                 <li>LAMP/LEMP Stack Configuration & Maintenance</li>
 
               <li>Management (and install) via cPanel, CWP & AWS</li>
-              <li>Server Backup</li>
+            
             </ul>
             <strong>🛡️ Security Architecture</strong>
             <ul>
