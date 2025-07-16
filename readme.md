@@ -43,7 +43,7 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
                 <li>Custom Plugin & Theme Development</li>
                 <li>Performance Optimization & Security</li>
                 <li>eCommerce</li>
-                <li>**Payment Methods:** PayPal, Stripe, and other payment gateways</li>
+                <li>Payment Methods: PayPal, Stripe, and other payment gateways</li>
                 <li>Payment Processing, Financial Reporting, Fraud Detection</li>
                 <li>Build CMS</li>
             </ul>
@@ -51,7 +51,7 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
             <ul>
                 <li>Full-Stack Linux Server Administration</li>
                 <li>LAMP/LEMP Stack Configuration & Maintenance</li>
-                <li>Management via cPanel, CWP & AWS</li>
+                <li>Management (and install) via cPanel, CWP & AWS</li>
             </ul>
             <strong>🛡️ Security Architecture</strong>
             <ul>
