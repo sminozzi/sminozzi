@@ -35,9 +35,7 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
                 <li>Datatables</li>
                 <li>Forms, reCaptcha, Turnstile</li>
             </ul>
-        </td>
-        <td valign="top" width="50%">
-            <strong>🚀 CMS & Frameworks</strong>
+                      <strong>🚀 CMS & Frameworks</strong>
             <ul>
                 <li><strong>WordPress (Expert Level)</strong></li>
                 <li>Custom Plugin & Theme Development</li>
@@ -47,6 +45,9 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
                 <li>Payment Processing, Financial Reporting, Fraud Detection</li>
                 <li>Build CMS</li>
             </ul>
+        </td>
+        <td valign="top" width="50%">
+
             <strong>☁️ Servers & Infrastructure</strong>
             <ul>
                 <li>Full-Stack Linux Server Administration</li>
@@ -61,7 +62,7 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
                 <li>Advanced Bot and DDoS protection, Anti-Spam</li>
             </ul>
 
-            <strong>Strategy & Management:</strong>
+        <strong>Strategy & Management:</strong>
         
 <ul>
     <li>Business Consulting, Project Management, Requirements Analysis</li>
