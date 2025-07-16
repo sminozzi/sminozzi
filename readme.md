@@ -25,6 +25,7 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
                 <li>PHP</li>
                 <li>MySQL</li>
                 <li>JSON</li>
+                <li>API Design</li>
             </ul>
             <strong>🖥️ Front-End</strong>
             <ul>
