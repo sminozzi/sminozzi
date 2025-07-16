@@ -33,6 +33,7 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
         <li>jQuery</li>
         <li>Botstrap</li>
         <li>Datatables</li>
+         <li>Forms, reCaptcha, Turnstile</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -41,7 +42,9 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
         <li><strong>WordPress (Expert Level)</strong></li>
         <li>Custom Plugin & Theme Development</li>
         <li>Performance Optimization & Security</li>
-          <li>eCommerce</li>
+         <li>eCommerce</li>
+        <liPayment Methods: Paypal, Stripe and others payment Processing, Financial Reporting, Fraud Detection</li>
+          <li>Build CMS</li>
       </ul>
       <strong>☁️ Servers & Infrastructure</strong>
       <ul>
@@ -52,8 +55,9 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
       <strong>🛡️ Security Architecture</strong>
       <ul>
         <li>Multi-Layered Security Strategy</li>
-        <li>Firewall Configuration (iptables, UFW)</li>
-        <li>Intrusion Prevention & Bot Mitigation</li>
+        <li>Firewall Configuration & Management (CSF, ModSecurity, Fail2Ban, iptables)</li>
+        <li>Intrusion Prevention & Bot Mitigation<li>
+        <li>Advanced Bot and DDoS protection, Anti-Spam<li>
       </ul>
       <strong>Technical Support & Troubleshooting:</strong>
 <ul>
@@ -61,7 +65,19 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
     <li>Ticket System Management</li>
     <li>Troubleshooting</li>
     <li>Linux Server Checkup</li>
+  <li> Linux Server performance and Checkup, Dashboard Creation</li>
 </ul>
+
+                                  <strong>Strategy & Management:</strong>
+                        <ul class="sub-list">
+                            <li>Business Consulting, Project Management, Requirements Analysis</li>
+                            <li>End-to-End Technical Ownership & Problem-Solving</li>
+                            <li>Client Partnership & Strategic Planning</li>
+                            <li>Analytics Solution Development & Data Analysis</li>
+                            <li>Adwords and Google APIS</li>
+                            <li>SEO</li>
+                            <li>X and Youtube API</li>
+                        </ul>
     </td>
   </tr>
 </table>
