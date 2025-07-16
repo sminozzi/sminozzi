@@ -13,69 +13,43 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
 
 ### 🚀 Core Competencies & Tech Stack
 
-<table>
-    <tr>
-        <td valign="top" width="50%">
-            <strong>🤖 Generative AI Integration</strong>
-            <ul>
-                <li>Gemini API, ChatGPT API: Architecting full-stack diagnostic chatbots using Gemini & ChatGPT, from custom back-end API development to interactive front-end solutions.</li>
-            </ul>
-            <strong>⚙️ Back-End</strong>
-            <ul>
-                <li>PHP</li>
-                <li>MySQL</li>
-                <li>JSON</li>
-                <li>API Design</li>
-            </ul>
-            <strong>🖥️ Front-End</strong>
-            <ul>
-                <li>JavaScript</li>
-                <li>HTML5 & CSS</li>
-                <li>jQuery</li>
-                <li>Bootstrap</li>
-                <li>Datatables</li>
-                <li>Forms, reCaptcha, Turnstile</li>
-            </ul>
-            <strong>🚀 CMS & Frameworks</strong>
-            <ul>
-                <li><strong>WordPress (Expert Level)</strong></li>
-                <li>Custom Plugin & Theme Development</li>
-                <li>Performance Optimization & Security</li>
-                <li>eCommerce</li>
-                <li>Payment Methods: PayPal, Stripe, and other payment gateways</li>
-                <li>Payment Processing, Financial Reporting, Fraud Detection</li>
-                <li>Build CMS</li>
-            </ul>
-        </td>
-        <td valign="top" width="50%">
-            <strong>☁️ Servers & Infrastructure</strong>
-            <ul>
-                <li>Full-Stack Linux Server Administration</li>
-                <li>LAMP/LEMP Stack Configuration & Maintenance</li>
+Core Competencies
 
-              <li>Management (and install) via cPanel, CWP & AWS</li>
-            
-            </ul>
-            <strong>🛡️ Security Architecture</strong>
-            <ul>
-                <li>Multi-Layered Security Strategy</li>
-                <li>Firewall Configuration & Management (CSF, ModSecurity, Fail2Ban, iptables)</li>
-                <li>Intrusion Prevention & Bot Mitigation</li>
-                <li>Advanced Bot and DDoS protection, Anti-Spam</li>
-            </ul>
-            <strong>Strategy & Management:</strong>
-            <ul>
-                <li>Business Consulting, Project Management, Requirements Analysis</li>
-                <li>End-to-End Technical Ownership & Problem-Solving</li>
-                <li>Client Partnership & Strategic Planning</li>
-                <li>Analytics Solution Development & Data Analysis</li>
-                <li>Google Ads & Google API Integrations (e.g., Analytics, My Business APIs)</li>
-                <li>Search Engine Optimization (SEO)</li>
-                <li>Social Media API Integration (e.g., X/Twitter, YouTube)</li>
-            </ul>
-        </td>
-    </tr>
-</table>
+
+
+Left Column
+Right Column
+
+
+
+Generative AI Integration (Gemini API, ChatGPT API): Architecting full-stack diagnostic chatbots using Gemini & ChatGPT, from custom back-end API development to interactive front-end solutions.
+Security Architecture & Hardening: Multi-layered security strategy (Server, Network & Application)Firewall Configuration & Management (CSF, ModSecurity, Fail2Ban, iptables)Cyber Security: Intrusion Prevention, Malware ScanningAdvanced Bot and DDoS protection, Anti-Spam
+
+
+Back-End Development: PHP, MySQL, JSON, API Creation
+Technical Support & Troubleshooting: Custom Technical SupportTicket System Build and ManagementTroubleshootingLinux Server performance and Checkup, Dashboard Creation
+
+
+Building debug tools
+Strategy & Management: Business Consulting, Project Management, Requirements AnalysisEnd-to-End Technical Ownership & Problem-SolvingClient Partnership & Strategic PlanningAnalytics Solution Development & Data AnalysisAdwords and Google APIsSEOX and YouTube API
+
+
+Front-End Development: JavaScript, HTML5, CSS, jQuery, Bootstrap, DataTables, Forms (reCaptcha and CloudFlare Turnstile)
+
+
+
+CMS & Frameworks: Build CMS, WordPress (Expert Level): Custom Plugin & Theme Development, Performance Optimization, Shopping Cart and eCommerce
+
+
+
+Payment Methods: PayPal, Stripe and other payment processing, Financial Reporting, Fraud Detection
+
+
+
+Servers & Infrastructure: Full-Stack Linux Server Administration (from bare-metal setup)LAMP/LEMP Stack Configuration, Performance Tuning & MaintenanceServer Installation and Administration (cPanel, Control Web Panel - CWP)AWS and Contabo API, Object Storage, eBay APIBare-Metal and VPS Linux Install and managementEmail deliverability: SPF, DKIM, DMARC, Reverse DNSServer Backup
+
+
+
 ---
 
 ### 🌟 Key Skills & Expertise
