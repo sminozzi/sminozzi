@@ -15,7 +15,6 @@ My focus is on **end-to-end technical ownership**. With a proven track record of
 
 # Core Competencies
 
-| Left Column | Right Column |
 |-------------|--------------|
 | **Generative AI Integration (Gemini API, ChatGPT API):** Architecting full-stack diagnostic chatbots using Gemini & ChatGPT, from custom back-end API development to interactive front-end solutions. | **Front-End Development:** JavaScript, HTML5, CSS, jQuery, Bootstrap, DataTables, Forms (reCaptcha and CloudFlare Turnstile) |
 | **Back-End Development:** PHP, MySQL, JSON, API Creation | **CMS & Frameworks:** Build CMS, WordPress (Expert Level): Custom Plugin & Theme Development, Performance Optimization, Shopping Cart and eCommerce |
