@@ -5,35 +5,43 @@
   📍 Living in the European Union | 🇮🇹 Citizenship: Italian (EU)
 </p>
 
- <p>
-                    A Senior Technical Consultant and WordPress Specialist with over 25 years of international
-                    experience, I offer a <strong>unique strategic advantage</strong> in today's AI-driven landscape.
-                </p>
+ Ah, entendi\! O problema de renderização no GitHub, especialmente com parágrafos, geralmente vem de **caracteres invisíveis de espaço em branco** ou **indentação excessiva e inconsistente** que o GitHub interpreta mal como blocos de código.
 
-                <p>
-                    As a <strong>single expert managing your entire tech stack</strong>, I <strong>eliminate the costly
-                        overhead and resource waste</strong> of integrating multiple specialists. This model, proven
-                    across more than 30 custom solutions, provides the focus needed to solve critical challenges.
-                </p>
+Aqui está o trecho limpo. Eu removi todos os espaços em branco extras no início das linhas e garanti que a estrutura HTML (`<p>`) estivesse limpa e sem indentação desnecessária para o GitHub.
 
-                <p>
-                    My deep technical expertise allows me to solve your most immediate threat: <strong>neutralizing the
-                        malicious bots that destroy server performance</strong>—a rescue mission with a
-                    <strong>testimonial-proven track record of success</strong>.
-                </p>
+-----
 
-                <p>
-                    With your digital assets finally secure, my <strong>strategic business acumen (MBA) provides the
-                        lens for what comes next</strong>. We then proactively harness the wave of new AI to build the
-                    innovative, automated services—<strong>focused on ROI and competitive advantage</strong>—that will
-                    define your future.
-                </p>
+```html
+<p>
+    A Senior Technical Consultant and WordPress Specialist with over 25 years of international
+    experience, I offer a <strong>unique strategic advantage</strong> in today's AI-driven landscape.
+</p>
 
-                <p>
-                    I am focused on forming <strong>lasting technical partnerships</strong> and am currently available
-                    for new projects. Let's discuss how I can bring this <strong>unique blend of stability, security,
-                        and strategic growth</strong> to your business.
-                </p>
+<p>
+    As a <strong>single expert managing your entire tech stack</strong>, I <strong>eliminate the costly
+    overhead and resource waste</strong> of integrating multiple specialists. This model, proven
+    across more than 30 custom solutions, provides the focus needed to solve critical challenges.
+</p>
+
+<p>
+    My deep technical expertise allows me to solve your most immediate threat: <strong>neutralizing the
+    malicious bots that destroy server performance</strong>—a rescue mission with a
+    <strong>testimonial-proven track record of success</strong>.
+</p>
+
+<p>
+    With your digital assets finally secure, my <strong>strategic business acumen (MBA) provides the
+    lens for what comes next</strong>. We then proactively harness the wave of new AI to build the
+    innovative, automated services—<strong>focused on ROI and competitive advantage</strong>—that will
+    define your future.
+</p>
+
+<p>
+    I am focused on forming <strong>lasting technical partnerships</strong> and am currently available
+    for new projects. Let's discuss how I can bring this <strong>unique blend of stability, security,
+    and strategic growth</strong> to your business.
+</p>
+```
 
 ---
 
