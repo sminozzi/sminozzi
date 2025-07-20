@@ -5,13 +5,6 @@
   📍 Living in the European Union | 🇮🇹 Citizenship: Italian (EU)
 </p>
 
- Ah, entendi\! O problema de renderização no GitHub, especialmente com parágrafos, geralmente vem de **caracteres invisíveis de espaço em branco** ou **indentação excessiva e inconsistente** que o GitHub interpreta mal como blocos de código.
-
-Aqui está o trecho limpo. Eu removi todos os espaços em branco extras no início das linhas e garanti que a estrutura HTML (`<p>`) estivesse limpa e sem indentação desnecessária para o GitHub.
-
------
-
-```html
 <p>
     A Senior Technical Consultant and WordPress Specialist with over 25 years of international
     experience, I offer a <strong>unique strategic advantage</strong> in today's AI-driven landscape.
@@ -41,7 +34,6 @@ Aqui está o trecho limpo. Eu removi todos os espaços em branco extras no iníc
     for new projects. Let's discuss how I can bring this <strong>unique blend of stability, security,
     and strategic growth</strong> to your business.
 </p>
-```
 
 ---
 
