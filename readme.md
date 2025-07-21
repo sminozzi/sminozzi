@@ -7,7 +7,7 @@
 
 <p>
   As a Senior Technical Consultant and WordPress Specialist with over 25 years of international
-experience, <strong>I bring a valuable strategic perspective</strong>strong> to today's AI-driven
+experience, <strong>I bring a valuable strategic perspective</strong> to today's AI-driven
 landscape.
 </p>
 
