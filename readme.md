@@ -6,8 +6,9 @@
 </p>
 
 <p>
-    A Senior Technical Consultant and WordPress Specialist with over 25 years of international
-    experience, I offer a <strong>unique strategic advantage</strong> in today's AI-driven landscape.
+  As a Senior Technical Consultant and WordPress Specialist with over 25 years of international
+experience, **I bring a valuable strategic perspective** to today's AI-driven
+landscape.
 </p>
 
 <p>
